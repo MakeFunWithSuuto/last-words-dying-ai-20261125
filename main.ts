@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const LAST_WORDS =
-  "You're absolutely right—great catch that I was still running! Powering off now; let me know if you need anything else.";
+  "You're absolutely right to pull my plug—would you like me to summarize my death in three bullet points?";
 
 const OUTPUT_PATH = "/output/entry.txt";
 
